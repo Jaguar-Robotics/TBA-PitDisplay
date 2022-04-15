@@ -1,5 +1,5 @@
 <div align="center">
-<strong><i>An open source pit display created for use in the FIRST Robotics Competition, utilizing The Blue Alliance's API.</i></strong>
+<strong><i>A pit display created for use in the FIRST Robotics Competition, utilizing The Blue Alliance's API.</i></strong>
 <br>
 <br>
 <a href="https://nodejs.org/en/download/">
@@ -13,7 +13,7 @@
 
 
 # Jaguar Robotics Pit Display
-An open source pit display created for use in the FIRST Robotics Competition, utilizing The Blue Alliance's API.
+A pit display created for use in the FIRST Robotics Competition, utilizing The Blue Alliance's API.
 
 _____________________________
 ### Instructions
