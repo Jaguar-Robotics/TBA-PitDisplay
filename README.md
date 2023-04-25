@@ -5,7 +5,7 @@
 <a href="https://nodejs.org/en/download/">
     <img src="https://img.shields.io/badge/Made with-Node.js-0d9c00?style=for-the-badge&logo=Node.js" alt="NodeJS">
 </a>
-<a href="https://github.com/Jaguar-Robotics/TBA-PitDisplay/LICENSE">
+<a href="https://github.com/Jaguar-Robotics/TBA-PitDisplay/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="MIT License">
 </a>
 </div>
