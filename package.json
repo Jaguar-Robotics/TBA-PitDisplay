@@ -1,0 +1,15 @@
+{
+  "name": "tba-pitdisplay",
+  "version": "0.0.0",
+  "description": "FRC Competition Pit Display to show match schedule and live stream",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jack Tajkef",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "handlebars": "^4.0.11"
+  }
+}
